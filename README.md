@@ -1,17 +1,80 @@
 # Engineering Notes
+> **Current Release:** v0.1 "Foundations"
 
-This repository documents my journey as a software architect specialised in GIS,
-learning Artificial Intelligence.
+> Documenting my journey as a Software Architect specialised in GIS, learning Artificial Intelligence.
 
-Rather than presenting polished results, the goal is to document the process:
-the ideas, questions, projects, mistakes and lessons learned along the way.
+## Why this repository?
 
-Topics include:
+After nearly twenty years working as a software engineer, mostly in the GIS domain, I decided to formally study Artificial Intelligence.
 
-- Artificial Intelligence
-- Mathematics
-- Software Architecture
-- GIS
-- Python
-- Machine Learning
-- Engineering
+The rapid evolution of AI has changed the way software is designed and developed. Rather than simply learning new tools, I want to understand the ideas behind them and how they fit into good software engineering and architecture.
+
+This repository documents that journey.
+
+It is not intended to be a showcase of polished projects. Instead, it is an engineering notebook where I record what I learn, build, question and occasionally get wrong. My hope is that, over time, it becomes a useful reference for my future self and perhaps for other engineers following a similar path.
+
+---
+
+## Current Roadmap
+
+- [ ] Update LinkedIn profile
+- [ ] Refresh mathematics for AI
+- [ ] Strengthen Python for scientific computing
+- [ ] Read and discuss classic AI papers
+- [ ] Build AI + GIS projects
+- [ ] Explore software architecture in the age of AI
+
+---
+
+## Project Status
+
+**Current Version:** v0.1
+
+**Phase:** Foundations
+
+### Completed
+
+✓ Repository created.
+
+✓ Initial project vision defined.
+
+✓ README created.
+
+### Current Focus
+
+- Build the first version of the website.
+- Update LinkedIn.
+- Refresh mathematics for AI.
+
+### Next Milestone
+
+Publish the first Engineering Note.
+
+---
+
+## Guiding Principles
+
+- Understand before implementing.
+- Keep things simple.
+- Document the journey, not only the destination.
+- Prefer engineering principles over technology trends.
+- Learn continuously.
+- Leave things a little better than I found them.
+
+---
+
+## Technology
+
+The repository intentionally starts with plain HTML, CSS and JavaScript.
+
+Frameworks and additional tools will only be introduced when there is a clear reason to do so.
+
+---
+
+## Licence
+
+The source code is released under the MIT License.
+
+---
+
+*"The objective is not to become an AI expert overnight, but to become a better software engineer by understanding AI properly."*
