@@ -71,6 +71,24 @@ Frameworks and additional tools will only be introduced when there is a clear re
 
 ---
 
+## Building with AI
+
+Engineering Notes is also an experiment in using AI as part of
+the engineering and learning process.
+
+The project is being developed collaboratively with ChatGPT. I
+use it to discuss ideas, question decisions, explore approaches,
+write and review content, and experiment with different ways of
+working.
+
+The goal is not to pretend that everything here was produced
+independently. The collaboration is part of the experiment.
+
+I want to understand where AI genuinely helps, where it does not,
+and what still requires human judgement and engineering experience.
+
+---
+
 ## Licence
 
 The source code is released under the MIT License.
