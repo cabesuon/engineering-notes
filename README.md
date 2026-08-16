@@ -1,5 +1,5 @@
 # Engineering Notes
-> **Current Release:** v0.1 "Foundations"
+> **Phase:** Foundations
 
 > Documenting my journey as a Software Architect specialised in GIS, learning Artificial Intelligence.
 
@@ -27,10 +27,6 @@ It is not intended to be a showcase of polished projects. Instead, it is an engi
 ---
 
 ## Project Status
-
-**Current Version:** v0.1
-
-**Phase:** Foundations
 
 ### Completed
 
